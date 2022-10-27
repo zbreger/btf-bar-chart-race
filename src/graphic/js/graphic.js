@@ -11,14 +11,14 @@ const draw = () => {
     bottom: 5,
     left: 0,
   };
-
+  const height = 600;
+  const width = 960;
   svg.attr("width", width).attr("height", height);
 
   const tickDuration = 500;
 
   const top_n = 14;
-  const height = 600;
-  const width = 960;
+
 
   const barPadding = (height - (margin.bottom + margin.top)) / (top_n * 5);
 
