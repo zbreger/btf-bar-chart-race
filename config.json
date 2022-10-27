@@ -1,10 +1,10 @@
 {
   "entries": {
     "index.html": {
-      "hed": "Headline",
+      "hed": "Michigan Leads Big Ten Teams in All Time Wins",
       "dek": "This is a short description",
-      "byline": "Firstname Lastname",
-      "source": "This is the source",
+      "byline": "Zach Breger",
+      "source": "https://www.sports-reference.com/",
       "note": "This is a note",
       "illustrator_output_filename": "output.html"
     }
